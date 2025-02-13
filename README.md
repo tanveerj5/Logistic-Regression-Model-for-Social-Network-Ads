@@ -59,10 +59,10 @@ In this project, we built a Logistic Regression model to predict whether users p
 - Visualizations provided clear, intuitive insights into decision boundaries.
 
 - Train Set Visualization
-  ![alt text](https://github.com/tanveerj5/Logistic-Regression-Model-for-Social-Network-Ads/blob/main/output%20train.png)
+- ![alt text](https://github.com/tanveerj5/Logistic-Regression-Model-for-Social-Network-Ads/blob/main/output%20train.png)
  
 - Test Set Visualization
-  ![alt text](https://github.com/tanveerj5/Logistic-Regression-Model-for-Social-Network-Ads/blob/main/output%20test.png)
+- ![alt text](https://github.com/tanveerj5/Logistic-Regression-Model-for-Social-Network-Ads/blob/main/output%20test.png)
 ---
 
 ## 🤖 Logistic Regression Model Insights
